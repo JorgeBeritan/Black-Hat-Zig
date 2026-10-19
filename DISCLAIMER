@@ -1,0 +1,57 @@
+DISCLAIMER — BLACK HAT ZIG
+
+This repository contains offensive security research tools and proof-of-concept
+code that implement techniques including but not limited to: direct syscall
+invocation, dynamic shellcode execution, fileless binary execution, process
+injection, and implant engineering.
+
+AUTHORIZED USE ONLY
+
+This code is provided strictly for:
+
+  - Authorized penetration testing with explicit written permission from the
+    system owner
+  - Security research in controlled, isolated lab environments
+  - Educational purposes and academic study
+  - Capture The Flag (CTF) competitions and security training exercises
+  - Development and testing of defensive security tools and detection mechanisms
+
+PROHIBITED USE
+
+You may NOT use this code to:
+
+  - Access, test, or attack any system without explicit written authorization
+    from the system owner
+  - Conduct any form of unauthorized access, surveillance, or data exfiltration
+  - Develop malware, ransomware, or any tool intended for malicious purposes
+  - Violate any local, state, national, or international law or regulation
+  - Cause damage, disruption, or unauthorized modification to any system
+
+LEGAL RESPONSIBILITY
+
+The author(s) of this repository:
+
+  - Provide this code "AS IS" with no warranty of any kind
+  - Accept NO liability for any damage, legal consequences, or losses resulting
+    from the use or misuse of this code
+  - Do NOT endorse or encourage any illegal activity
+
+YOU are solely responsible for:
+
+  - Ensuring you have proper authorization before using any tool or technique
+    from this repository
+  - Complying with all applicable laws and regulations in your jurisdiction
+  - Any consequences resulting from your use of this code
+
+If you are unsure whether your intended use is authorized or legal, DO NOT
+proceed. Consult with a qualified legal professional.
+
+RESPONSIBLE DISCLOSURE
+
+If you discover a vulnerability using techniques described in this repository,
+follow responsible disclosure practices. Report findings to the affected
+organization through their official security reporting channels before any
+public disclosure.
+
+By using any code in this repository, you acknowledge that you have read,
+understood, and agree to abide by this disclaimer.
